@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "SignML",
+    "slug": "SignML",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "SignML"
+}
