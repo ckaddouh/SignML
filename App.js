@@ -10,8 +10,7 @@ import { NavigationContainer } from '@react-navigation/native';
 function StartScreen({navigation}) {
   return (
     <SafeAreaView style={styles.container}>
-    <Animatable.Text animation="pulse" easing="ease-out" iterationCount="infinite" style = {styles.title}>TURBO TEXTER</Animatable.Text>
-      <Text>MLSign</Text>
+    <Animatable.Text animation="pulse" easing="ease-out" iterationCount="infinite" style = {styles.title}>SIGNML</Animatable.Text>
       <AwesomeButton style= {styles.modeButtons1}
         backgroundColor="blue"
         backgroundShadow="blue"
