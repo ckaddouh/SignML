@@ -51,5 +51,8 @@
 	<false/>
   <key>UIStatusBarStyle</key>
   <string>UIStatusBarStyleDefault</string>
+	<key>NSCameraUsageDescription</key>
+	<string>Camera accessed to begin live translation.</string>
+
 </dict>
 </plist>
